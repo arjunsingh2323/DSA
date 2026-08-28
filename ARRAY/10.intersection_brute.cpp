@@ -1,0 +1,18 @@
+#include<bits/stdc++.h>
+vector<int> findArrayIntersection(vector<int>&A, int n, vector<int>&b ,int m)
+{
+    vector<int> ans;
+    int vis[m] = {0};
+    for(int i = 0; i<n;i++){
+        for(int j = 0; j< m ; j++){
+            if(A[i] == B[j] && vis[j] = 0){
+                ans.push_back(A[i]);
+                vis[j] = 1;
+                break;
+            }
+            if(B[j]>A[i]) break;
+        }    
+    
+    }
+    return ans;
+}
