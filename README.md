@@ -46,6 +46,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/arjunsingh2323/DSA/tree/main/0292-nim-game/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
