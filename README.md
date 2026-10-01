@@ -14,9 +14,11 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunsingh2323/DSA/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arjunsingh2323/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
