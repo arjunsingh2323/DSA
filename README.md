@@ -10,6 +10,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh2323/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1534-count-good-triplets](https://github.com/arjunsingh2323/DSA/tree/main/1534-count-good-triplets/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,12 +38,14 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh2323/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
