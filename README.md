@@ -59,6 +59,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/arjunsingh2323/DSA/tree/main/0292-nim-game/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -92,4 +93,8 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
