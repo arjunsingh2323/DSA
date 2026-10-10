@@ -13,6 +13,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunsingh2323/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh2323/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -62,6 +63,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunsingh2323/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh2323/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -102,6 +104,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunsingh2323/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
