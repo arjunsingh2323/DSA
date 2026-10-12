@@ -61,6 +61,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0033-search-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arjunsingh2323/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/arjunsingh2323/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -76,6 +77,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/arjunsingh2323/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0292-nim-game](https://github.com/arjunsingh2323/DSA/tree/main/0292-nim-game/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
@@ -118,4 +120,8 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2180-count-integers-with-even-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/arjunsingh2323/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/arjunsingh2323/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/arjunsingh2323/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
