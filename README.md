@@ -79,6 +79,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/arjunsingh2323/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0292-nim-game](https://github.com/arjunsingh2323/DSA/tree/main/0292-nim-game/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arjunsingh2323/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
 ## Brainteaser
