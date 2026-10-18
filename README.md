@@ -26,6 +26,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/arjunsingh2323/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/arjunsingh2323/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/arjunsingh2323/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/arjunsingh2323/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
