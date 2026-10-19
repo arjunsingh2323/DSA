@@ -23,6 +23,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunsingh2323/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arjunsingh2323/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1534-count-good-triplets](https://github.com/arjunsingh2323/DSA/tree/main/1534-count-good-triplets/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/arjunsingh2323/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arjunsingh2323/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/arjunsingh2323/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -79,6 +80,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arjunsingh2323/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunsingh2323/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arjunsingh2323/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/arjunsingh2323/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
