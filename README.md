@@ -31,12 +31,14 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2733-neither-minimum-nor-maximum](https://github.com/arjunsingh2323/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/arjunsingh2323/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/arjunsingh2323/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunsingh2323/DSA/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/arjunsingh2323/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
