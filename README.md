@@ -21,6 +21,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arjunsingh2323/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arjunsingh2323/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arjunsingh2323/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arjunsingh2323/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1534-count-good-triplets](https://github.com/arjunsingh2323/DSA/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/arjunsingh2323/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
