@@ -10,7 +10,7 @@ public:
             n/=10;
         }
         if((sS - dS)>= 50) return true;
-        return false;
+        else return false;
         
     }
 };
