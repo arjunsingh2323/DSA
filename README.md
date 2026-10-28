@@ -33,6 +33,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/arjunsingh2323/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/arjunsingh2323/DSA/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/arjunsingh2323/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/arjunsingh2323/DSA/tree/main/4020-elevator-requests-i/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/arjunsingh2323/DSA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
