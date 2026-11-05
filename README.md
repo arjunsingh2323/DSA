@@ -16,6 +16,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0162-find-peak-element](https://github.com/arjunsingh2323/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunsingh2323/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh2323/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/arjunsingh2323/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -64,6 +65,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arjunsingh2323/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -91,6 +93,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0162-find-peak-element](https://github.com/arjunsingh2323/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunsingh2323/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh2323/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/arjunsingh2323/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -166,4 +169,12 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/arjunsingh2323/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
