@@ -16,6 +16,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/arjunsingh2323/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunsingh2323/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/arjunsingh2323/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/arjunsingh2323/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunsingh2323/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -48,6 +49,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunsingh2323/DSA/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/arjunsingh2323/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0169-majority-element](https://github.com/arjunsingh2323/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/arjunsingh2323/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -81,6 +83,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/arjunsingh2323/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/arjunsingh2323/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -206,6 +209,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/arjunsingh2323/DSA/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunsingh2323/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -218,6 +222,11 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/arjunsingh2323/DSA/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/arjunsingh2323/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/arjunsingh2323/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/arjunsingh2323/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
