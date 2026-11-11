@@ -10,6 +10,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0033-search-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arjunsingh2323/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/arjunsingh2323/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -46,6 +47,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunsingh2323/DSA/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/arjunsingh2323/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/arjunsingh2323/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
