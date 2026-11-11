@@ -51,6 +51,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0217-contains-duplicate](https://github.com/arjunsingh2323/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/arjunsingh2323/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/arjunsingh2323/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/arjunsingh2323/DSA/tree/main/2716-minimize-string-length/) | Easy |
 | [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -58,6 +59,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/arjunsingh2323/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/arjunsingh2323/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arjunsingh2323/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2716-minimize-string-length](https://github.com/arjunsingh2323/DSA/tree/main/2716-minimize-string-length/) | Easy |
@@ -216,5 +218,6 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/arjunsingh2323/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/arjunsingh2323/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
