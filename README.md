@@ -15,6 +15,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/arjunsingh2323/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunsingh2323/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0217-contains-duplicate](https://github.com/arjunsingh2323/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunsingh2323/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -45,6 +46,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunsingh2323/DSA/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/arjunsingh2323/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2716-minimize-string-length](https://github.com/arjunsingh2323/DSA/tree/main/2716-minimize-string-length/) | Easy |
@@ -73,6 +75,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/arjunsingh2323/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
