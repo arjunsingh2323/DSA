@@ -38,6 +38,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2553-separate-the-digits-in-an-array](https://github.com/arjunsingh2323/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/arjunsingh2323/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arjunsingh2323/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/arjunsingh2323/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
