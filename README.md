@@ -33,6 +33,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [1534-count-good-triplets](https://github.com/arjunsingh2323/DSA/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/arjunsingh2323/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/arjunsingh2323/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/arjunsingh2323/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arjunsingh2323/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/arjunsingh2323/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -120,6 +121,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arjunsingh2323/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/arjunsingh2323/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/arjunsingh2323/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/arjunsingh2323/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arjunsingh2323/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunsingh2323/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/arjunsingh2323/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
