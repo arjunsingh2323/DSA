@@ -137,6 +137,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2180-count-integers-with-even-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2427-number-of-common-factors](https://github.com/arjunsingh2323/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2652-sum-multiples](https://github.com/arjunsingh2323/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/arjunsingh2323/DSA/tree/main/3516-find-closest-person/) | Easy |
 | [3959-check-good-integer](https://github.com/arjunsingh2323/DSA/tree/main/3959-check-good-integer/) | Easy |
