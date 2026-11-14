@@ -40,6 +40,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/arjunsingh2323/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arjunsingh2323/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/arjunsingh2323/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/arjunsingh2323/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -201,6 +202,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/arjunsingh2323/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +253,8 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arjunsingh2323/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/arjunsingh2323/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
