@@ -24,6 +24,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0561-array-partition](https://github.com/arjunsingh2323/DSA/tree/main/0561-array-partition/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh2323/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/arjunsingh2323/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -87,6 +88,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/arjunsingh2323/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0561-array-partition](https://github.com/arjunsingh2323/DSA/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arjunsingh2323/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/arjunsingh2323/DSA/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -98,6 +100,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0242-valid-anagram](https://github.com/arjunsingh2323/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/arjunsingh2323/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0561-array-partition](https://github.com/arjunsingh2323/DSA/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/arjunsingh2323/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/arjunsingh2323/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -267,4 +270,8 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/arjunsingh2323/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/arjunsingh2323/DSA/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
