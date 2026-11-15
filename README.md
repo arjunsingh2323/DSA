@@ -62,6 +62,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0387-first-unique-character-in-a-string](https://github.com/arjunsingh2323/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/arjunsingh2323/DSA/tree/main/2716-minimize-string-length/) | Easy |
 | [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3945-digit-frequency-score](https://github.com/arjunsingh2323/DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2652-sum-multiples](https://github.com/arjunsingh2323/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/arjunsingh2323/DSA/tree/main/3516-find-closest-person/) | Easy |
+| [3945-digit-frequency-score](https://github.com/arjunsingh2323/DSA/tree/main/3945-digit-frequency-score/) | Easy |
 | [3959-check-good-integer](https://github.com/arjunsingh2323/DSA/tree/main/3959-check-good-integer/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/arjunsingh2323/DSA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Brainteaser
