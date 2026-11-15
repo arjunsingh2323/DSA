@@ -69,6 +69,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0383-ransom-note](https://github.com/arjunsingh2323/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/arjunsingh2323/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arjunsingh2323/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/arjunsingh2323/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2716-minimize-string-length](https://github.com/arjunsingh2323/DSA/tree/main/2716-minimize-string-length/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -135,6 +136,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0069-sqrtx](https://github.com/arjunsingh2323/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0292-nim-game](https://github.com/arjunsingh2323/DSA/tree/main/0292-nim-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arjunsingh2323/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/arjunsingh2323/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2427-number-of-common-factors](https://github.com/arjunsingh2323/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
