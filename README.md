@@ -48,6 +48,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [3701-compute-alternating-sum](https://github.com/arjunsingh2323/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/arjunsingh2323/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/arjunsingh2323/DSA/tree/main/3861-minimum-capacity-box/) | Easy |
+| [3895-count-digit-appearances](https://github.com/arjunsingh2323/DSA/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/arjunsingh2323/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/arjunsingh2323/DSA/tree/main/4020-elevator-requests-i/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/arjunsingh2323/DSA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
@@ -155,6 +156,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2652-sum-multiples](https://github.com/arjunsingh2323/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/arjunsingh2323/DSA/tree/main/3516-find-closest-person/) | Easy |
+| [3895-count-digit-appearances](https://github.com/arjunsingh2323/DSA/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/arjunsingh2323/DSA/tree/main/3945-digit-frequency-score/) | Easy |
 | [3959-check-good-integer](https://github.com/arjunsingh2323/DSA/tree/main/3959-check-good-integer/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/arjunsingh2323/DSA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
