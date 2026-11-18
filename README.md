@@ -214,6 +214,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/arjunsingh2323/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/arjunsingh2323/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/arjunsingh2323/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
