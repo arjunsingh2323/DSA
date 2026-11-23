@@ -155,6 +155,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2427-number-of-common-factors](https://github.com/arjunsingh2323/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/arjunsingh2323/DSA/tree/main/2652-sum-multiples/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/arjunsingh2323/DSA/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/arjunsingh2323/DSA/tree/main/3516-find-closest-person/) | Easy |
 | [3895-count-digit-appearances](https://github.com/arjunsingh2323/DSA/tree/main/3895-count-digit-appearances/) | Medium |
