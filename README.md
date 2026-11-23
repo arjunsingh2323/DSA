@@ -12,6 +12,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arjunsingh2323/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/arjunsingh2323/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/arjunsingh2323/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arjunsingh2323/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -218,6 +219,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/arjunsingh2323/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/arjunsingh2323/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/arjunsingh2323/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/arjunsingh2323/DSA/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/arjunsingh2323/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/arjunsingh2323/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
