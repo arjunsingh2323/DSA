@@ -158,6 +158,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | [2544-alternating-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/arjunsingh2323/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/arjunsingh2323/DSA/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3360-stone-removal-game](https://github.com/arjunsingh2323/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arjunsingh2323/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/arjunsingh2323/DSA/tree/main/3516-find-closest-person/) | Easy |
 | [3895-count-digit-appearances](https://github.com/arjunsingh2323/DSA/tree/main/3895-count-digit-appearances/) | Medium |
@@ -207,6 +208,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | ------- | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/arjunsingh2323/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/arjunsingh2323/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/arjunsingh2323/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/arjunsingh2323/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/arjunsingh2323/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/arjunsingh2323/DSA/tree/main/3959-check-good-integer/) | Easy |
