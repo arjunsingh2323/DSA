@@ -8,6 +8,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arjunsingh2323/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/arjunsingh2323/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arjunsingh2323/DSA/tree/main/0035-search-insert-position/) | Easy |
@@ -191,6 +192,7 @@ Solutions to Striver’s DSA Beginner Sheet problems, organized by topic with st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/arjunsingh2323/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arjunsingh2323/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunsingh2323/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/arjunsingh2323/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh2323/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
